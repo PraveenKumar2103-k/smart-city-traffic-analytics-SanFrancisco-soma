@@ -1,10 +1,10 @@
-# 🚦 Smart City Traffic Analytics Dashboard: San Francisco (SoMa)
+#  Smart City Traffic Analytics Dashboard: San Francisco (SoMa)
 
 Welcome to a data-driven project aimed at improving urban traffic safety and city planning using real-world data from the SoMa neighborhood in San Francisco. This end-to-end project leverages **Python, Power BI, and public datasets** to identify accident hotspots, complaint trends, and potential policy actions.
 
 ---
 
-## 🌐 Project Overview
+##  Project Overview
 **Objective:** Analyze traffic-related 311 complaints and reported accidents to discover patterns, identify high-risk zones, and deliver actionable insights to support smart city decision-making.
 
 This project answers:
@@ -15,7 +15,7 @@ This project answers:
 
 ---
 
-## 🔧 Tools & Technologies Used
+##  Tools & Technologies Used
 | Tool | Purpose |
 |------|---------|
 | **Python (Pandas, Jupyter)** | Data cleaning, merging, datetime formatting |
@@ -24,7 +24,7 @@ This project answers:
 
 ---
 
-## 📚 Dataset Description
+##  Dataset Description
 We used three datasets:
 - `accidents_soma.csv` — SF police-reported accidents in SoMa
 - `complaints_soma.csv` — 311 complaints (e.g., blocked driveways, traffic signal issues)
@@ -32,9 +32,9 @@ We used three datasets:
 
 ---
 
-## 📊 Dashboard Pages & Insights
+##  Dashboard Pages & Insights
 
-### 📈 Page 1: Traffic Accident Analysis
+###  Page 1: Traffic Accident Analysis
 **Visuals:** Map, Bar Chart by Day, Slicers (Year, Neighborhood)
 
 **Insights:**
@@ -46,7 +46,7 @@ We used three datasets:
 
 ---
 
-### 📉 Page 2: 311 Complaint Trends
+###  Page 2: 311 Complaint Trends
 **Visuals:** Complaint Type Frequency, Neighborhood vs. Type Matrix, Line Chart (Time Trend)
 
 **Insights:**
@@ -58,7 +58,7 @@ We used three datasets:
 
 ---
 
-### 🔗 Page 3: Combined Complaint + Accident View
+###  Page 3: Combined Complaint + Accident View
 **Visuals:** Complaint+Accident Map, Type vs. Frequency Matrix, Slicers
 
 **Insights:**
@@ -74,7 +74,7 @@ We used three datasets:
 
 ---
 
-## 📝 How to Use This Project
+##  How to Use This Project
 1. Clone or download the repo
 2. Open the Jupyter notebook `Phase3_Data_Cleaning.ipynb` to understand the cleaning & merging process
 3. Open `smart_city_traffic_analytics.pbix` in Power BI Desktop
@@ -83,7 +83,7 @@ We used three datasets:
 
 ---
 
-## 🏆 Key Results Summary
+##  Key Results Summary
 | Area | Key Insight | Actionable Solution |
 |------|-------------|---------------------|
 | Folsom & 7th | High accident + complaint density | Pedestrian signal, police monitoring |
@@ -93,7 +93,7 @@ We used three datasets:
 
 ---
 
-## 👤 Author
+##  Author
 **K Praveen Kumar**  
 📧 [inkedin.com/in/praveen-kumar-kummari-100a62366/] 
     Email ID [Praveenkumarkummari2103@gmail.com]
@@ -101,7 +101,7 @@ We used three datasets:
 
 ---
 
-## 🌍 Acknowledgements
+##  Acknowledgements
 Thanks to:
 - [San Francisco Open Data Portal](https://data.sfgov.org)
 - [Power BI Community](https://community.powerbi.com)
